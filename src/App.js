@@ -1,9 +1,13 @@
 import './App.css';
+import Weather from './Weather';
 
 function App() {
   return (
     <div className="App">
-     <p>Weather App</p>
+      <div className='container'>
+        <Weather/>
+         <p>Weather App</p>
+      </div>
     </div>
   );
 }

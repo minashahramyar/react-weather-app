@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className='container'>
         <Weather/>
-         <p>Weather App</p>
+         <p>This project was coded by <a href="#" target="_blank">Mina</a> and is <a href="https://github.com/minashahramyar/react-weather-app" target='_blank'>open sourced on Github</a></p>
       </div>
     </div>
   );
